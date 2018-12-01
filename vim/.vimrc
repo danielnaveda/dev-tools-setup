@@ -14,3 +14,5 @@ set splitright
 
 set splitbelow
 
+set nofoldenable    " disable folding
+
